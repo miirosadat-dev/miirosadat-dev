@@ -26,8 +26,8 @@ I'm also comfortable across the full delivery pipeline — containerizing applic
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/miirosadat-dev"><img src="https://github-stats-api-phi.vercel.app/api/stats?username=miirosadat-dev" alt="miirosadat-dev's GitHub stats" /></a>
+<a href="http://www.github.com/miirosadat-dev"><img src="https://github-stats-api-phi.vercel.app/api/stats?username=miirosadat-dev&name=MIIRO%20SADAT" alt="miirosadat-dev's GitHub stats" /></a>
 
-<a href="http://www.github.com/miirosadat-dev"><img src="https://streak-stats.demolab.com/?user=miirosadat-dev&stroke=e9e7e2&background=0c0d0f&ring=c98a3e&fire=c98a3e&currStreakNum=e9e7e2&currStreakLabel=c98a3e&sideNums=e9e7e2&sideLabels=e9e7e2&dates=8b8d90&hide_border=true" alt="miirosadat-dev's GitHub streak stats" /></a>
+<a href="http://www.github.com/miirosadat-dev"><img src="https://streak-stats.demolab.com/?user=miirosadat-dev&stroke=e9e7e2&background=0c0d0f&ring=49ff1c&fire=49ff1c&currStreakNum=e9e7e2&currStreakLabel=49ff1c&sideNums=e9e7e2&sideLabels=e9e7e2&dates=8b8d90&hide_border=true" alt="miirosadat-dev's GitHub streak stats" /></a>
 
 <a href="https://github.com/miirosadat-dev" align="left"><img src="https://github-stats-api-phi.vercel.app/api/top-langs?username=miirosadat-dev&langs_count=10" alt="Top Languages" /></a>
